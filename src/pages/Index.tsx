@@ -117,7 +117,7 @@ export default function Index() {
             <div className="flex items-center gap-2">
               <Icon name="Building2" size={32} className="text-primary" />
               <span className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                КрымСтройДом
+                КрымДом
               </span>
             </div>
             <div className="hidden md:flex items-center gap-8">
@@ -569,9 +569,9 @@ export default function Index() {
         <div className="container mx-auto max-w-7xl text-center">
           <div className="flex items-center justify-center gap-2 mb-4">
             <Icon name="Building2" size={24} className="text-primary" />
-            <span className="text-xl font-bold text-white">КрымСтройДом</span>
+            <span className="text-xl font-bold text-white">КрымДом</span>
           </div>
-          <p>© 2024 КрымСтройДом. Все права защищены.</p>
+          <p>© 2024 КрымДом. Все права защищены.</p>
           <p className="text-sm mt-2">Строительство домов под ключ в Крыму</p>
         </div>
       </footer>
