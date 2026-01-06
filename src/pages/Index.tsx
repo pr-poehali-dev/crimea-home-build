@@ -178,11 +178,11 @@ export default function Index() {
               </div>
               <div className="grid grid-cols-3 gap-6 pt-8">
                 <div className="text-center">
-                  <div className="text-4xl font-bold text-primary">150+</div>
+                  <div className="text-4xl font-bold text-primary">50+</div>
                   <div className="text-sm text-gray-600 mt-1">Построенных домов</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-4xl font-bold text-primary">12</div>
+                  <div className="text-4xl font-bold text-primary">7</div>
                   <div className="text-sm text-gray-600 mt-1">Лет на рынке</div>
                 </div>
                 <div className="text-center">
@@ -506,8 +506,8 @@ export default function Index() {
                   </div>
                   <div>
                     <div className="font-semibold">Телефон</div>
-                    <a href="tel:+79780001122" className="text-gray-300 hover:text-primary transition-colors">
-                      +7 (978) 000-11-22
+                    <a href="tel:+79786872757" className="text-gray-300 hover:text-primary transition-colors">
+                      +7 (978) 687-27-57
                     </a>
                   </div>
                 </div>
@@ -528,7 +528,7 @@ export default function Index() {
                   </div>
                   <div>
                     <div className="font-semibold">Адрес</div>
-                    <div className="text-gray-300">г. Симферополь, ул. Строительная, 15</div>
+                    <div className="text-gray-300">г. Севастополь</div>
                   </div>
                 </div>
               </div>
