@@ -517,8 +517,8 @@ export default function Index() {
                   </div>
                   <div>
                     <div className="font-semibold">Email</div>
-                    <a href="mailto:info@krymstroy.ru" className="text-gray-300 hover:text-secondary transition-colors">
-                      info@krymstroy.ru
+                    <a href="mailto:Big_Games@bk.ru" className="text-gray-300 hover:text-secondary transition-colors">
+                      Big_Games@bk.ru
                     </a>
                   </div>
                 </div>
